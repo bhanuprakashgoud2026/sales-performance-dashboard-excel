@@ -12,7 +12,7 @@ The dashboard provides insights into:
 - Employee Performance Analysis
 ---
 ## Dashboard Preview
-![Dashboard Overview](Images/Dashboard_Overview.png)
+![Dashboard Overview](Dashboard_Overview.png)
 ---
 ## KPIs
 | KPI | Value |
